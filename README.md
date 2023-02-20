@@ -1,6 +1,7 @@
 Link github: https://github.com/thinhotwp1/Facade-Pattern.git
 
 Link bài viết: https://toihocdesignpattern.com/chuong-7-adapter-va-facade-pattern-tro-nen-thich-nghi-phan-1.html
+https://toihocdesignpattern.com/chuong-7-adapter-va-facade-pattern-tro-nen-thich-nghi-phan-2.html
 
 Link drive: https://docs.google.com/document/d/1k9ILPgqAqvrmbW1IAku_Td94ms2M6ky4-xh3n_dqHxc/edit?usp=sharing
 
